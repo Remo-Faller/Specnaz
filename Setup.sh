@@ -20,5 +20,5 @@ pip install email-validator
 echo -e $b">"$w" Instalowanie modułu: "$g"googlesearch-python"$w
 pip install googlesearch-python
 echo -e $b">"$w" Instalacja zakończona sukcesem"
-wget -q https://raw.githubusercontent.com/Remo-Faller/Specnaz/main/specnaz.py -O /data/data/com.termux/files/usr/bin/specnaz && chmod +x /data/data/com.termux/files/usr/bin/specnaz
+wget -q https://raw.githubusercontent.com/Remo-Faller/Specnaz/main/specnaz -O /data/data/com.termux/files/usr/bin/specnaz && chmod +x /data/data/com.termux/files/usr/bin/specnaz
 echo -e $b">"$w" Wpisz polecenie "$g"specnaz"$w" w Terminalu"
